@@ -2,7 +2,7 @@
 - coding is sort of fun
 - this class is not in the morning
 - nice TA's
-- good AC in the room
+- decent AC in the room
 
 ## Welcome to GitHub Pages
 
