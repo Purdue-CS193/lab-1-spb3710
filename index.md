@@ -1,4 +1,4 @@
-##Sri's first CS193 Lab
+# Sri's first CS193 Lab
 - coding is sort of fun
 - this class is not in the morning
 - nice TA's
